@@ -18,7 +18,7 @@ The source code files are packaged inside ZIP archives in this repository.
 To get started:  
 1. Download the ZIP file(s).  
 2. Extract the files locally.  
-3. Open the solution file [`DinosaursProject.sln`](#) using Visual Studio 2022 (or a compatible version).
+3. Open the solution file [`DinosaursProject.sln`] using Visual Studio 2022 (or a compatible version).
 
 ---
 
