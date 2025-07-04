@@ -1,6 +1,25 @@
-# Web project
-Used in here: Aspx, Js, C#, CSS, sql and DB managment and ect.
+# Web Project - Dinosaurs
 
-you may need to download the zip and extract the files from the zip.
+This project is built using several technologies including:
 
-best to open from VS (2022) through the solution file [DinosaursProject.sln] (inside the zip). 
+- ASPX (ASP.NET Web Forms)
+- JavaScript (JS)
+- C#
+- CSS
+- SQL and Database management
+- And more
+
+---
+
+## How to Use
+
+The source code files are packaged inside ZIP archives in this repository.  
+
+To get started:  
+1. Download the ZIP file(s).  
+2. Extract the files locally.  
+3. Open the solution file [`DinosaursProject.sln`](#) using Visual Studio 2022 (or a compatible version).
+
+---
+
+Feel free to explore and contribute!
